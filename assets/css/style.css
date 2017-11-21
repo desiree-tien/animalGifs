@@ -2,18 +2,22 @@
 .container {
 	text-align:center;
 	color:white;
-	background-color:rgba(113, 63, 14, 0.6);
+	background-color:rgba(63, 191, 191, 0.6);
 	max-width: 600px;
 	border-radius: 25px;
 	border-style: inset;
-	border-color:rgba(113, 63, 14, 0.6);
+	border-color:rgba(63, 191, 191, 0.6);
 	font-family: 'Hind Madurai', sans-serif;
 	background-size: cover;
 	margin:auto;
 }
 
+h1 {
+	font-family: 'Permanent Marker', cursive;
+}
+
 .showGIF {
-	background-color:rgba(166, 94, 21, 0.6);
+	background-color:rgba(63, 191, 191, 0.6);
 	max-width: 600px;
 	border-radius: 25px;
 	border-style: inset;
@@ -22,10 +26,19 @@
 }
 
 #submit {
-	background-color:rgba(166, 94, 21, 0.6);
+	background-color:rgba(63, 191, 191, 0.6);
 	max-width: 600px;
 	border-radius: 25px;
 	border-style: inset;
-	border-color:rgba(113, 63, 14, 0.6);
+	border-color:rgba(163, 191, 191, 0.6);
 	font-family: 'Hind Madurai', sans-serif;
+}
+#gifs-appear-here {
+	display: inline-block;
+	margin: 10px 20px;
+	border-width: 2px;
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 5px;
+	border-radius: 15px;
 }
