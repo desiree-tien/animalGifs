@@ -1,6 +1,20 @@
+h1 {
+	font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.ariel {
+	float:left;
+}
+
+.flounder {
+	float:right;
+	padding-top: 500px;
+	padding-right: 100px;
+}
 
 .container {
 	text-align:center;
+	background-size: 200%;
 	color:white;
 	background-color:rgba(63, 191, 191, 0.6);
 	max-width: 600px;
@@ -12,9 +26,6 @@
 	margin:auto;
 }
 
-h1 {
-	font-family: 'Oleo Script Swash Caps', cursive;
-}
 
 .showGIF {
 	background-color:rgba(63, 191, 191, 0.6);
